@@ -5,10 +5,9 @@ This is the implementation of our paper "[HINTS: Citation Time Series Prediction
 Data
 -----------------
 
-The original data used could be access from [Aminer](https://www.aminer.org/citation)  [APS](https://journals.aps.org/datasets).
+The original data used could be access from [Aminer](https://www.aminer.org/citation)  and [APS](https://journals.aps.org/datasets).
 
-We also provide our processed data to reproduce the results reported in our paper. [preprocessed
-data]()
+We also provide our [processed data](https://www.dropbox.com/sh/zqj1r4icwophb3a/AAANshyUt-f5yT6w-9ri-WK-a?dl=0) to reproduce the results reported in our paper. 
 
 
 
@@ -24,7 +23,7 @@ How to run?
 ----------------------
 
 * Step0 (data): 
-	* Download the [processed data]() and `unzip *.zip` under the root folder.
+	* Download the [processed data](https://www.dropbox.com/sh/zqj1r4icwophb3a/AAANshyUt-f5yT6w-9ri-WK-a?dl=0) and `unzip *.zip` under the root folder.
 
 * Step1 (run):
 	* `cd src`
@@ -54,7 +53,7 @@ Song Jiang <songjiang@cs.ucla.edu>
 
 
 
-Bibtex?
+Bibtex
 ----------------------
 
 ```bibtex
