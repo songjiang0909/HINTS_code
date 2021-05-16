@@ -26,7 +26,7 @@ How to run?
 	* Download the [processed data](https://www.dropbox.com/sh/zqj1r4icwophb3a/AAANshyUt-f5yT6w-9ri-WK-a?dl=0) and `unzip *.zip` under the root folder.
 
 * Step1 (run):
-	* `cd src`
+	* `cd ./src`
 	* For Aminer dataset: `python main.py --dataset aminer --epochs 700 --batch_size 3000`
 	* For APS dataset: `python main.py --dataset aps --epochs 500 --batch_size 1200`
 
