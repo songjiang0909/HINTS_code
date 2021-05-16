@@ -1,6 +1,6 @@
 HINTS
 -----------------
-This is the implementation of our paper "[HINTS: Citation Time Series Prediction for New Publications via Dynamic Heterogeneous Information Network Embedding](http://web.cs.ucla.edu/~yzsun/papers/2021_WWW_HINTS.pdf)".
+This is the implementation of our paper "[HINTS: Citation Time Series Prediction for New Publications via Dynamic Heterogeneous Information Network Embedding](http://web.cs.ucla.edu/~yzsun/papers/2021_WWW_HINTS.pdf)", published in WWW'21.
 
 Data
 -----------------
@@ -54,7 +54,7 @@ Song Jiang <songjiang@cs.ucla.edu>
 
 
 
-How to run?
+Bibtex?
 ----------------------
 
 ```bibtex
