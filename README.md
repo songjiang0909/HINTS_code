@@ -57,7 +57,7 @@ Bibtex
 ----------------------
 
 ```bibtex
-@inproceedings{LG-ODE,
+@inproceedings{hints,
   title={HINTS: Citation Time Series Prediction for New Publications via Dynamic Heterogeneous Information Network Embedding},
   author={Song Jiang, Bernard J. Koch, Yizhou Sun},
   booktitle={Proceedings of The Web Conference},
