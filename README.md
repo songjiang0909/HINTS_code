@@ -39,7 +39,7 @@ Arguments interpretation:
 - `--batch_size` : batch size of one training.
 
 
-Note that the batch size in set as the number of papers used in training, i.e., there is only one interation per epoch. I didn't tune too much on the hypermeters.
+Note that the batch size in set as the number of papers used in training, i.e., there is only one interation per epoch. I didn't try "mini-batch"-like training.
 
 
 The prediction files will be stored under the `result` folder.
