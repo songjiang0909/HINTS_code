@@ -7,8 +7,7 @@ Data
 
 The original data used could be access from [Aminer](https://www.aminer.org/citation)  and [APS](https://journals.aps.org/datasets).
 
-We also provide our [processed data](https://www.dropbox.com/sh/zqj1r4icwophb3a/AAANshyUt-f5yT6w-9ri-WK-a?dl=0) to reproduce the results reported in our paper. 
-
+We also provide our processed data [Dropbox](https://www.dropbox.com/sh/zqj1r4icwophb3a/AAANshyUt-f5yT6w-9ri-WK-a?dl=0) or [Google Drive](https://drive.google.com/drive/folders/1cX2qh3Bq_GCnYQUiMVa33mExK4RWDwKY?usp=sharing) to reproduce the results reported in our paper. 
 
 
 Requirement
